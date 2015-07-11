@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Travel Search</string>
+
+    <string name="txt_json">{  \"locations\": [    {      \"name\":\"London\",      \"long\":\"51.50722\",      \"lat\":\"-0.12750\"    },    {      \"name\":\"Berlin\",      \"long\":\"13.4105300\",      \"lat\":\"52.5243700\"    },    {      \"name\":\"Brazil\",      \"long\":\"-46.6361100\",      \"lat\":\"23.5475000\"    },    {      \"name\":\"Cairo\",      \"long\":\"31.2496700\",      \"lat\":\"30.0626300\"    },    {      \"name\":\"China\",      \"long\":\"116.3972300\",     \"lat\":\"39.9075000\"}]}</string>
+    <string name="txt_error_invalid_data">Invalid data, please try again later</string>
+    <string name="txt_error_gps_disabled">Location service is disabled</string>
+
+    <string name="txt_go_euro_title">GoEuro</string>
+
+    <string name="txt_from_caption">Your Travel starts from</string>
+    <string name="txt_locations_hint">London, Berlin, Brazil, Cairo, China</string>
+
+    <string name="txt_to_caption">Your Travel ends at</string>
+    <string name="txt_travel_date_caption">Travel Date</string>
+
+    <string name="txt_search_msg">Search is not yet implemented</string>
+
+
+</resources>
